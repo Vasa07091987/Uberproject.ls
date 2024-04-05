@@ -30,13 +30,9 @@ Authentication: JSON Web Tokens (JWT) for secure authentication.
 
 Mapping & Navigation: Integration with Google Maps API for location services.
 
-Challenges Faced & Future Features: During development, we encountered challenges such as optimizing real-time tracking for better accuracy and reliability, and ensuring secure payment transactions. In the future, we aim to implement features such as:
+Challenges Faced & Future Features: During development, we encountered challenges such as optimizing real-time tracking for better accuracy and reliability, and ensuring secure payment transactions. 
 
-Rating & Feedback System: Allowing users to rate and provide feedback on their ride experience.
-
-Advanced Routing Algorithms: Optimizing driver allocation and route selection for improved efficiency.
-
-Promotions & Discounts: Introducing promotional offers and discounts to enhance user engagement.
+In the future, we aim to implement features such as Rating & Feedback System, Allowing users to rate and provide feedback on their ride experience, Advanced Routing Algorithms, Optimizing driver allocation and route selection for improved efficiency, Promotions & Discounts, Introducing promotional offers and discounts to enhance user engagement.
 
 Achievements & Proud Moments: We take pride in building a robust and user-friendly platform that simplifies transportation for millions of users. Implementing seamless real-time tracking and secure payment processing were significant achievements for us.
 
