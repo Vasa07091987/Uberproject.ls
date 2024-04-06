@@ -53,5 +53,4 @@ INSERT INTO `` (`TripID`,`DriverID`,`PassengerID`,`StartLocation`,`EndLocation`,
 INSERT INTO `` (`TripID`,`DriverID`,`PassengerID`,`StartLocation`,`EndLocation`,`Fare`) VALUES (1017,1,114,'333 Pine St','444 Oak St',24.50);
 INSERT INTO `` (`TripID`,`DriverID`,`PassengerID`,`StartLocation`,`EndLocation`,`Fare`) VALUES (1018,2,115,'555 Elm St','666 Maple St',32.25);
 
-Select * from Drivers
 
